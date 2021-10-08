@@ -1,7 +1,7 @@
 # JenkinsContainer
 Create container with Jenkins Web App for your DevOps environment 
 
-## Download latest image o jenkins from docker hub to local registry
+## Download latest image of jenkins web app from docker hub to local registry
 ```bash
 docker pull jenkins/jenkins:latest
 ```
