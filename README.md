@@ -22,4 +22,5 @@ docker run -p 8080:8080 -p 50000:50000 --name jenkinsContainer -v volumeTest:/va
 ![unlock_jenkins](https://user-images.githubusercontent.com/90909936/136528951-69c435bc-ecf0-41a6-b71a-d282fbb569ad.PNG)
 
 ## Install Plugin and configure Jenkins for the first use
+![image](https://user-images.githubusercontent.com/90909936/136529287-25fd4d1b-6184-437f-ba2d-ce9048fc351d.png)
 
